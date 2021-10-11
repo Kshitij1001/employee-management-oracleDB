@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Built-By: Admin
+Build-Jdk: 16.0.1
+Class-Path: ojdbc8-21.1.0.0.jar log4j-core-2.14.1.jar log4j-api-2.14.1.j
+ ar
+Main-Class: org.app.App
+Created-By: Maven Integration for Eclipse
+
